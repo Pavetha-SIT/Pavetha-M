@@ -13,3 +13,14 @@ Answer = 190/3 minutes
 
 2.Three pipes A, B and C can fill a cistern in 270 hours. After working together for 90 hours, C is closed, then A and B filled the remaining part in 270 hours. Find number of hours taken by C required to fill the cistern. 
 a)800          b) 810           c) 820            d) 790
+Ans:
+A,B,C can together finish the work in 270 hrs
+so, A+B+C=1/270
+working 90 hrs = 90/270
+              =1/3
+remaining =1-1/3
+          =2/3
+3/2*270=710/2
+        =405
+1/270-1/405=1/810
+Answer: 810
