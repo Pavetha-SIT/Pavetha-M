@@ -1,7 +1,23 @@
 1.Two pipes A and B can fill a cistern in 37 minutes and 45 minutes respectively. Both pipes are opened. The cistern will be filled in just half an hour, if the B is turned off after:
 A)5 min.       B)9 min.          C)10 min.         D)15 min
-
+ans
+A and B fill cistern = 1/37 , 1/45
+B turned off after 30 min = 30/37
+remaining work = 1-30/37 = 7/37
+B's remaining work = 45 * 7/37 = 9
+answer = 9min
 
 
 2.A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is:
 A)6 hours        B)10 hours         C)15 hours          D)30 hours
+ans
+Let the time taken by first pipe = x.
+second and third pipes = (x-5) , (x-9) 
+1/x + 1/(x-5) = 1/(x-9)
+x + (x-5) / (x-5) = 1x-9
+(2x-5)(x-9)=x(x-5)
+2x2−5x-18x+45 = x2−5x
+x2−18x+45 = 0
+(x-15)(x-3) =0
+ x = 15
+answer = 15 hours
