@@ -1,7 +1,20 @@
 1.One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in:
 A)81 min            B)108 min           C)144 min          D)192 min
-
-
+ans:
+ratio of the pipe = 3:1
+finish work = 36 min
+slower pipe fill the tank = (3+1) *36
+                          = 144
+Answer : 144 min
 
 2.Three taps A, B and C can fill a tank in 12, 15 and 20 hours respectively. If A is open all the time and B and C are open for one hour each alternately, the tank will be full in:
 A)6 hours          B)6	2/3	hours             C)7 hours               D)7	1/2	hours
+ans:
+A,B,C time to fill tank = 12,15,20
+A+B = 1/12 + 1/15 = 3/20
+A+C = 1/12 + 1/20 = 2/15
+part filled in 2 hours = 3/20 + 2/15 = 17/60
+in 6 hrs = 3*17/60 = 3/20
+remaining = (1- 17/20) = 3/20
+total time = 6+1 =7
+Answer = 7 hours
