@@ -1,0 +1,21 @@
+1). Two pipes can fill a tank in 20 and 24 minutes respectively and a waste pipe can empty 3 gallons per minute. 
+All the three pipes working together can fill the tank in 15 minutes. The capacity of the tank is:
+a.60 gallons     b.100 gallons        c.120 gallons      d.180 gallons
+ans
+        1/20 + 1/24 - 1/c = 1/15
+        1/c = 1/15 - (1/20 + 1/24)
+        1/c = 1/15 - 11/120
+        1/c = 8-11 / 120
+        1/c = 3/120
+        3 gallons = 1/40 = 120 gallons
+Answer : 120 gallons
+
+
+2.) Two pipes A and B together can fill a cistern in 4 hours. Had they been opened separately, 
+then B would have taken 6 hours more than A to fill the cistern. How much time will be taken by A to fill the cistern separately?
+a.1 hour      b.2 hours         c.6 hours     d.8 hours
+ans:
+        1/x  = 1/x+6 = 1/4
+        x^2 - 2x - 24 = 0
+        x = 6 or x = -4
+Answer : 6 hours
