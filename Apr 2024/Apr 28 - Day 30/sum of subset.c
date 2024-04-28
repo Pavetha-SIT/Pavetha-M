@@ -1,4 +1,4 @@
-// 1.Write a  Program to check if two numbers are equal without using the bitwise operator.
+// Write a Program to print sums of all subsets in an array.
 
 program:
 
