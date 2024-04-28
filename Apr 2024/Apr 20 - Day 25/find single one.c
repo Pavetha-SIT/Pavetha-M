@@ -5,3 +5,28 @@ Input: nums = [2,2,1]
 Output: 1
 */
 program:
+
+#include<stdio.h>
+int main() 
+{
+    int num[100];
+    int size,i;
+    printf("size of array: ");
+    scanf("%d", &size);
+    printf("elements of array:\n");
+    for(i=0;i<size;i++) 
+    {
+        scanf("%d",&num[i]);
+    }
+    int result=0;
+    for(i=0;i<size;i++) {
+        result ^= num[i];
+    }
+    printf("single number is: %d\n", result);
+}
+/*
+output
+size of array: 3
+elements of array:[2,2,1]
+single number is: 1
+  */
