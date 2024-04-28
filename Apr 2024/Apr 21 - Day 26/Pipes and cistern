@@ -1,16 +1,15 @@
 Aptitude:
 1.It takes 20 minutes for pipe A to fill the tank completely and it takes 30  minutes for pipe B to fill the tank completely. If both the inlets are opened together, then how much time will be taken to fill the tank completely? 
+a.15 minutes    b.12 minutes     c.11 minutes     d.10 minutes        e.22 minutes 
+ans
+ 1/20 + 1/30 = 5/60
+      -> 60/5 = 12
+Answer : 12 minutes 
 
-15 minutes
-12 minutes
-11 minutes
-10 minutes
-22 minutes  
-   
 2.If two pipes can fill a tank in 24 and 20 minutes respectively and another pipe can empty 3 gallons of water per minute from that tank. When all the three pipes are working together, it takes 15 minutes to fill the tank. What is the capacity of the tank? 
-
-100 gallons
-150 gallons
-125 gallons
-130 gallons
-120 gallons
+a.100 gallons        b.150 gallons       c.125 gallons       d.130 gallons        e.120 gallons
+ans
+       work done by outlet = 1/15 - (1/24 + 1/20)
+                         = 1/15 - 11/120 = 3/120
+                3 gallons = 1/40 = 120
+answer: 120 gallons
