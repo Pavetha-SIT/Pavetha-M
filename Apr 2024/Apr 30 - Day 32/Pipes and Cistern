@@ -1,0 +1,16 @@
+1.Two pipes can fill a tank in 10 and 14 minutes respectively. A third pipe can empty the tank at the rate of 10 liters/minute. 
+If all the pipes working together can fill the empty tank in 8 minutes,what is the capacity of the tank?
+A. 210 liters      B. 215.4 liters        C. 220 liters      D. 225.4 liters
+ans:
+      1/10 + 1/14 - 10/x = 1/8
+      1/10 + 1/14 - 1/8 = 10/x
+      (112+80-140)/1120 = 10/x
+      x = 215.4
+Answer= 215.4 liters
+
+2.A can fill a tank in 8 hours, B can fill the same in 12 hours, and C can fill the tank in 24 hours. 
+If they are open at 2 am, 3 am, and 4am respectively, then at what time the tank will be completely fill?
+A. 5:00 am      B. 6:00 am       C. 6:40 am       D. 7:20 am
+ans
+      1/8 + 1/12 - 1/24 = 1/4
+answer= 6:00 am
